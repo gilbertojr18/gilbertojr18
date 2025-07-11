@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é Gilberto Cardoso dos Santos Júnior, tenho 25 anos e sou natural de Brasília. Atualmente, estou cursando  Sistemas Para Internet na Unicesumar.📚 Estou estudando diariamente tecnologias como Angular, React, HTML, CSS, JavaScript e TypeScript, com o objetivo de me tornar desenvolvedor fullStack
+Olá, meu nome é Gilberto Cardoso dos Santos Júnior, tenho 25 anos e sou natural de Brasília. Atualmente, estou cursando  Sistemas Para Internet na Unicesumar.📚 Estou estudando diariamente tecnologias como Angular, React, NodeJs,HTML, CSS, JavaScript e TypeScript, com o objetivo de me tornar desenvolvedor fullStack
 🚀 Estou documentando minha jornada “do zero ao dev” nas redes sociais, mostrando minha evolução e projetos pessoais  "[@dozero_ao_dev(https://www.tiktok.com/)", e também através do Instagram, com o perfil chamado "[Do zero ao Dev](https://www.instagram.com/dozero_ao_dev/)".
 
 ---
@@ -17,6 +17,8 @@ Olá, meu nome é Gilberto Cardoso dos Santos Júnior, tenho 25 anos e sou natur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
+
 <img 
     align="left" 
     alt="CSS" 
@@ -49,6 +51,15 @@ Olá, meu nome é Gilberto Cardoso dos Santos Júnior, tenho 25 anos e sou natur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="NodeJs"
+    title="NodeJs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" 
+/>
+
 <img 
     align="left" 
     alt="Next.js" 
