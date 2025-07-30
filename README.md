@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá, meu nome é Gilberto Cardoso dos Santos Júnior, tenho 25 anos e sou natural de Brasília. Atualmente, estou cursando  Sistemas Para Internet na Unicesumar.📚 Estou estudando diariamente tecnologias como Angular, React, NodeJs,HTML, CSS, JavaScript e TypeScript, com o objetivo de me tornar desenvolvedor fullStack
-🚀 Estou documentando minha jornada “do zero ao dev” nas redes sociais, mostrando minha evolução e projetos pessoais  "[@dozero_ao_dev(https://www.tiktok.com/)", e também através do Instagram, com o perfil chamado "[Do zero ao Dev](https://www.instagram.com/dozero_ao_dev/)".
+🚀 Estou documentando minha jornada “do zero ao dev” nas redes sociais, mostrando minha evolução e projetos pessoais  "[@dozero_ao_dev](https://www.tiktok.com/@dozero_ao_dev)", e também através do Instagram, com o perfil chamado "[Do zero ao Dev](https://www.instagram.com/dozero_ao_dev/)".
 
 ---
 
